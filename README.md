@@ -17,7 +17,7 @@
 ## Installation
 
 ```shell
-$ composer require "apiadmin/tiktok:dev-main" -vvv
+$ composer require "bestyii/easytiktok:1.0.0" -vvv
 ```
 
 ## Usage
